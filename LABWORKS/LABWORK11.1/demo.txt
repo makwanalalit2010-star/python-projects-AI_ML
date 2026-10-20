@@ -1,3 +1,0 @@
-this is wmode.
-this is a mode.
-this is r+ mode.
