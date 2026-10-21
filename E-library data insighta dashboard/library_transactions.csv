@@ -1,0 +1,101 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T1001,2026-0$1-26,U120,Python Basics,Programming,3
+T1002,2026-0$9-28,U119,Python Basics,Data Science,6
+T1003,2026-0$5-15,U118,Web Design,Database,9
+T1004,2026-0$6-22,U111,Data Analytics,Web Development,8
+T1005,2026-0$9-12,U107,Python Basics,Programming,12
+T1006,2026-0$1-16,U112,Learn Java,Data Science,5
+T1007,2026-0$6-15,U105,SQL Guide,Web Development,14
+T1008,2026-0$7-12,U112,Data Analytics,Database,17
+T1009,2026-0$8-17,U111,Python Basics,Data Science,19
+T1010,2026-0$6-26,U103,Learn Java,Database,8
+T1011,2026-0$6-21,U103,Web Design,Data Science,16
+T1012,2026-0$1-12,U107,Python Basics,Database,16
+T1013,2026-0$7-12,U119,Learn Java,Database,1
+T1014,2026-0$8-13,U118,SQL Guide,Database,15
+T1015,2026-0$4-20,U114,Learn Java,Data Science,2
+T1016,2026-0$5-13,U110,Learn Java,Programming,17
+T1017,2026-0$2-28,U101,Data Analytics,Database,12
+T1018,2026-0$8-13,U105,Data Analytics,Data Science,12
+T1019,2026-0$7-14,U109,SQL Guide,Web Development,4
+T1020,2026-0$9-10,U107,Data Analytics,Data Science,13
+T1021,2026-0$9-23,U106,Learn Java,Programming,13
+T1022,2026-0$9-13,U120,Web Design,Database,9
+T1023,2026-0$3-16,U102,Python Basics,Web Development,11
+T1024,2026-0$4-14,U120,Python Basics,Data Science,11
+T1025,2026-0$4-11,U109,Web Design,Web Development,15
+T1026,2026-0$9-27,U105,Learn Java,Database,13
+T1027,2026-0$7-13,U114,Data Analytics,Database,19
+T1028,2026-0$9-20,U107,Web Design,Database,4
+T1029,2026-0$9-14,U116,Python Basics,Data Science,1
+T1030,2026-0$2-23,U115,Web Design,Web Development,13
+T1031,2026-0$8-12,U117,SQL Guide,Database,7
+T1032,2026-0$9-23,U104,Data Analytics,Database,13
+T1033,2026-0$4-18,U111,Data Analytics,Data Science,6
+T1034,2026-0$4-21,U118,Python Basics,Web Development,4
+T1035,2026-0$6-20,U115,Web Design,Web Development,2
+T1036,2026-0$1-24,U106,Data Analytics,Programming,1
+T1037,2026-0$8-13,U103,SQL Guide,Web Development,1
+T1038,2026-0$8-24,U102,Web Design,Web Development,3
+T1039,2026-0$2-18,U104,Web Design,Data Science,10
+T1040,2026-0$8-26,U120,Data Analytics,Web Development,14
+T1041,2026-0$7-27,U102,SQL Guide,Programming,5
+T1042,2026-0$7-11,U117,SQL Guide,Database,14
+T1043,2026-0$6-16,U119,Data Analytics,Database,2
+T1044,2026-0$6-22,U111,Data Analytics,Data Science,13
+T1045,2026-0$9-15,U113,Data Analytics,Data Science,18
+T1046,2026-0$6-27,U106,SQL Guide,Database,11
+T1047,2026-0$5-10,U103,Python Basics,Data Science,14
+T1048,2026-0$9-12,U109,Python Basics,Web Development,20
+T1049,2026-0$7-14,U114,Learn Java,Web Development,16
+T1050,2026-0$8-12,U107,Learn Java,Programming,8
+T1051,2026-0$8-13,U104,SQL Guide,Database,17
+T1052,2026-0$7-20,U106,Data Analytics,Database,8
+T1053,2026-0$5-14,U120,Learn Java,Programming,18
+T1054,2026-0$6-11,U108,Data Analytics,Database,19
+T1055,2026-0$1-12,U102,Data Analytics,Web Development,6
+T1056,2026-0$7-11,U120,Python Basics,Web Development,18
+T1057,2026-0$2-23,U111,SQL Guide,Data Science,9
+T1058,2026-0$3-27,U103,Python Basics,Database,2
+T1059,2026-0$6-27,U110,Learn Java,Database,17
+T1060,2026-0$4-27,U117,Data Analytics,Database,19
+T1061,2026-0$5-10,U108,Learn Java,Web Development,2
+T1062,2026-0$5-25,U116,Learn Java,Database,16
+T1063,2026-0$2-25,U110,Python Basics,Web Development,4
+T1064,2026-0$6-23,U109,Python Basics,Web Development,14
+T1065,2026-0$4-28,U110,Python Basics,Data Science,19
+T1066,2026-0$4-24,U104,Learn Java,Web Development,19
+T1067,2026-0$2-13,U117,Python Basics,Programming,3
+T1068,2026-0$4-19,U105,Data Analytics,Database,8
+T1069,2026-0$5-11,U105,SQL Guide,Data Science,20
+T1070,2026-0$2-19,U113,SQL Guide,Web Development,5
+T1071,2026-0$4-17,U120,Web Design,Data Science,18
+T1072,2026-0$4-22,U118,Data Analytics,Web Development,16
+T1073,2026-0$8-14,U112,Learn Java,Web Development,15
+T1074,2026-0$9-22,U114,Data Analytics,Programming,17
+T1075,2026-0$4-16,U116,SQL Guide,Data Science,19
+T1076,2026-0$8-14,U108,Data Analytics,Programming,11
+T1077,2026-0$1-19,U109,Python Basics,Data Science,1
+T1078,2026-0$8-13,U118,Web Design,Web Development,12
+T1079,2026-0$8-23,U102,Python Basics,Data Science,7
+T1080,2026-0$9-16,U112,Python Basics,Programming,16
+T1081,2026-0$8-11,U106,Learn Java,Programming,2
+T1082,2026-0$3-10,U118,Data Analytics,Web Development,7
+T1083,2026-0$7-11,U119,Python Basics,Programming,16
+T1084,2026-0$5-20,U105,Learn Java,Data Science,8
+T1085,2026-0$3-23,U120,Web Design,Database,2
+T1086,2026-0$5-10,U118,Python Basics,Data Science,3
+T1087,2026-0$6-16,U112,Data Analytics,Database,4
+T1088,2026-0$8-11,U120,Learn Java,Programming,11
+T1089,2026-0$2-25,U112,SQL Guide,Database,7
+T1090,2026-0$5-13,U115,Python Basics,Data Science,15
+T1091,2026-0$5-13,U103,SQL Guide,Programming,9
+T1092,2026-0$8-28,U103,Learn Java,Database,16
+T1093,2026-0$8-24,U104,Data Analytics,Data Science,8
+T1094,2026-0$1-26,U101,Data Analytics,Database,11
+T1095,2026-0$9-27,U114,SQL Guide,Web Development,12
+T1096,2026-0$4-26,U109,Data Analytics,Data Science,4
+T1097,2026-0$5-15,U117,Web Design,Database,8
+T1098,2026-0$4-13,U109,Learn Java,Data Science,5
+T1099,2026-0$9-13,U103,Data Analytics,Programming,9
+T1100,2026-0$9-21,U115,Python Basics,Database,20
